@@ -40,6 +40,11 @@ ul div{
 	width: 100px;
 	float: right;
 	margin-right: 20px;
+	cursor: pointer;
+}
+
+.site-nav ul li:hover{
+	color: rgb(240, 235, 220);
 }
 
 .container{
