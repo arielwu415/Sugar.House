@@ -1,4 +1,5 @@
 body{
+	background-color: #ffebd6;
 	margin: 0;
 	padding: 0;
 }
@@ -43,7 +44,6 @@ ul div{
 
 .container{
 	max-width: 1280px;
-	background-color: #ffebd6;
 	margin: auto;
 }
 
